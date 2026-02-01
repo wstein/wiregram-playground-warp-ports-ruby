@@ -1,0 +1,43 @@
+# Ruby artifacts
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
+
+# RSpec
+.rspec_status
+
+# IDE
+.idea
+.vscode
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Bundler
+vendor/bundle
+.bundle
+Gemfile.lock
+
+# Documentation
+doc/
+.yardoc
+
+# Build artifacts
+*.o
+*.so
+*.dylib
+*.dll
